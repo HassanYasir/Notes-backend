@@ -4,4 +4,4 @@
 !.env.example
 
 
-/database/*..db
+/database/*.db
